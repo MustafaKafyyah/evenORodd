@@ -1,0 +1,11 @@
+x = input("enter a number to see if it is even or odd: ")
+
+y = int(x)%2
+
+if y == 0:
+    print("EVEN")
+    
+else :
+    print("ODD")
+
+# This is my first project I did as a beginner, ik its only a couple of lines but I did it on my own with no help, so im happy abt it. :))
